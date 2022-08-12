@@ -1,5 +1,78 @@
 [
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 30 Adversa",
+    "Japanese": "Lv30 アドウェルサ",
+    "Image": "https://pbs.twimg.com/media/CT6cgc5UYAIhJoB.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 30 Colossus",
+    "Japanese": "Lv30 コロッサス",
+    "Image": "https://pbs.twimg.com/media/CT6cUf8VEAEBaEb.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 30 Celeste",
+    "Japanese": "Lv30 セレスト",
+    "Image": "https://pbs.twimg.com/media/CT6cmzjUcAIvSo_.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 30 Tiamat",
+    "Japanese": "Lv30 ティアマト",
+    "Image": "https://pbs.twimg.com/media/CT6cLx4VAAAzePV.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 30 Yggdrasil",
+    "Japanese": "Lv30 ユグドラシル",
+    "Image": "https://pbs.twimg.com/media/CT6cbScU8AAgXRw.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 30 Leviathan",
+    "Japanese": "Lv30 リヴァイアサン",
+    "Image": "https://pbs.twimg.com/media/CT6cXcgUEAEc0Zl.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 50 Adversa",
+    "Japanese": "Lv50 アドウェルサ",
+    "Image": "https://pbs.twimg.com/media/CT6cgc5UYAIhJoB.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 50 Colossus",
+    "Japanese": "Lv50 コロッサス",
+    "Image": "https://pbs.twimg.com/media/CT6cUf8VEAEBaEb.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 50 Celeste",
+    "Japanese": "Lv50 セレスト",
+    "Image": "https://pbs.twimg.com/media/CT6cmzjUcAIvSo_.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 50 Tiamat",
+    "Japanese": "Lv50 ティアマト",
+    "Image": "https://pbs.twimg.com/media/CT6cLx4VAAAzePV.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 50 Tiamat Omega",
     "Japanese": "Lv50 ティアマト・マグナ",
     "Image": "https://pbs.twimg.com/media/CT6buTPUwAIM9VJ.jpg:small",
@@ -7,6 +80,23 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 50 Yggdrasil",
+    "Japanese": "Lv50 ユグドラシル",
+    "Image": "https://pbs.twimg.com/media/CT6cbScU8AAgXRw.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 50 Leviathan",
+    "Japanese": "Lv50 リヴァイアサン",
+    "Image": "https://pbs.twimg.com/media/CT6cXcgUEAEc0Zl.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 70 Colossus Omega",
     "Japanese": "Lv70 コロッサス・マグナ",
     "Image": "https://pbs.twimg.com/media/CT6bwJTUYAA6mcV.jpg:small",
@@ -21,6 +111,16 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 60 Zhuque",
+    "Japanese": "Lv60 朱雀",
+    "Image": "https://pbs.twimg.com/media/CfqNV2pUAAAFTq8.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 60 Yggdrasil Omega",
     "Japanese": "Lv60 ユグドラシル・マグナ",
     "Image": "https://pbs.twimg.com/media/CT6cDD3UkAEnP8Y.jpg:small",
@@ -49,6 +149,30 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 60 Xuanwu",
+    "Japanese": "Lv60 玄武",
+    "Image": "https://pbs.twimg.com/media/CV1lVejVEAAmxT6.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 60 Baihu",
+    "Japanese": "Lv60 白虎",
+    "Image": "https://pbs.twimg.com/media/Cb8So5kVAAA_a_D.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 60 Qinglong",
+    "Japanese": "Lv60 青竜",
+    "Image": "https://pbs.twimg.com/media/CYpGBIuW8AEniTh.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 100 Grani",
     "Japanese": "Lv100 グラニ",
     "Image": "https://pbs.twimg.com/media/CqwDXDkUMAAjCE5.jpg:small",
@@ -70,6 +194,44 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 90 Agni",
+    "Japanese": "Lv90 アグニス",
+    "Image": "https://pbs.twimg.com/media/CfqNXEVVIAEcN0B.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 90 Zephyrus",
+    "Japanese": "Lv90 ゼピュロス",
+    "Image": "https://pbs.twimg.com/media/CYpGC_4WAAAQ6IM.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 90 Titan",
+    "Japanese": "Lv90 ティターン",
+    "Image": "https://pbs.twimg.com/media/Cb8Squ1VIAAeo69.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 90 Neptune",
+    "Japanese": "Lv90 ネプチューン",
+    "Image": "https://pbs.twimg.com/media/CV1lT4ZUsAEaflM.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 100 Dark Angel Olivia",
+    "Japanese": "Lv100 Dエンジェル・オリヴィエ",
+    "Image": "https://pbs.twimg.com/media/CT6csqNVAAA_GFU.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 100 Odin",
     "Japanese": "Lv100 オーディン",
     "Image": "https://pbs.twimg.com/media/CqwDU_jUkAQjgKq.jpg:small",
@@ -77,6 +239,16 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 100 Apollo",
+    "Japanese": "Lv100 アポロン",
+    "Image": "https://pbs.twimg.com/media/CT6chwtUsAA0WFw.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 100 Lich",
     "Japanese": "Lv100 リッチ",
     "Image": "https://pbs.twimg.com/media/CqwDZKwVMAAxt0Y.jpg:small",
@@ -175,6 +347,16 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 100 Goliath",
+    "Japanese": "Lv100 ゴライアス",
+    "Image": "https://pbs.twimg.com/media/C22ZV3JVEAAQqr_.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 100 Luminiera Omega",
     "Japanese": "Lv100 シュヴァリエ・マグナ",
     "Image": "https://pbs.twimg.com/media/CbTeQ1fVIAAEoqi.jpg:small",
@@ -287,6 +469,16 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 100 Snowman",
+    "Japanese": "Lv100 スノウマン",
+    "Image": "https://pbs.twimg.com/media/C0Axj32UoAA2ZO6.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 150 Leviathan Malice",
     "Japanese": "Lv150 リヴァイアサン・マリス",
     "Image": "https://pbs.twimg.com/media/EMCId3TU4AE0y34.jpg:small",
@@ -301,6 +493,16 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 100 Nezha",
+    "Japanese": "Lv100 ナタク",
+    "Image": "https://pbs.twimg.com/media/CT6cOzzUwAESsq_.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 150 Luminiera Malice",
     "Japanese": "Lv150 シュヴァリエ・マリス",
     "Image": "https://pbs.twimg.com/media/ExEBs8aVgAEHLEZ.jpg:small",
@@ -308,6 +510,16 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 100 Twin Elements",
+    "Japanese": "Lv100 フラム＝グラス",
+    "Image": "https://pbs.twimg.com/media/CT_qpfCUsAA9vfF.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 150 Anima-Animus Core",
     "Japanese": "Lv150 アニマ・アニムス・コア",
     "Image": "https://pbs.twimg.com/media/E8aEDqBVEAc1KWv.jpg:small",
@@ -315,6 +527,23 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 100 Macula Marius",
+    "Japanese": "Lv100 マキュラ・マリウス",
+    "Image": "https://pbs.twimg.com/media/CT6cYp-UsAAy_f0.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 100 Medusa",
+    "Japanese": "Lv100 メドゥーサ",
+    "Image": "https://pbs.twimg.com/media/CT6ccesVEAAy_Kx.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Huanglong & Qilin (Impossible)",
     "Japanese": "黄龍・黒麒麟HL",
     "Image": "https://pbs.twimg.com/media/EGL5dRGVUAA2kHK.jpg:small",
@@ -357,6 +586,93 @@
     "Visibility": true
   },
   {
+<<<<<<< HEAD
+=======
+    "English": "Lvl 120 Dark Angel Olivia",
+    "Japanese": "Lv120 Dエンジェル・オリヴィエ",
+    "Image": "https://pbs.twimg.com/media/CbTeSqbUcAARoNV.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Anubis",
+    "Japanese": "Lv120 アヌビス",
+    "Image": "https://pbs.twimg.com/media/CzcJCMtVEAEbPjY.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Apollo",
+    "Japanese": "Lv120 アポロン",
+    "Image": "https://pbs.twimg.com/media/CbTeO4fUkAEmmIN.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Ca Ong",
+    "Japanese": "Lv120 カー・オン",
+    "Image": "https://pbs.twimg.com/media/Cs1w3NXVMAAAiRy.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Gilgamesh",
+    "Japanese": "Lv120 ギルガメッシュ",
+    "Image": "https://pbs.twimg.com/media/CqG0X1tUkAA5B8_.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Nezha",
+    "Japanese": "Lv120 ナタク",
+    "Image": "https://pbs.twimg.com/media/CT6cQD-UcAE3nt2.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Morrigna",
+    "Japanese": "Lv120 バイヴカハ",
+    "Image": "https://pbs.twimg.com/media/CucwemxVUAA7pWF.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Twin Elements",
+    "Japanese": "Lv120 フラム＝グラス",
+    "Image": "https://pbs.twimg.com/media/CVL2EBHUwAA8nUj.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Prometheus",
+    "Japanese": "Lv120 プロメテウス",
+    "Image": "https://pbs.twimg.com/media/CqG0anMUIAU6z7f.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Hector",
+    "Japanese": "Lv120 ヘクトル",
+    "Image": "https://pbs.twimg.com/media/CyEeWDkUQAQ5DzW.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Macula Marius",
+    "Japanese": "Lv120 マキュラ・マリウス",
+    "Image": "https://pbs.twimg.com/media/CYBkd_1UEAATH9J.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+    "English": "Lvl 120 Medusa",
+    "Japanese": "Lv120 メドゥーサ",
+    "Image": "https://pbs.twimg.com/media/CYBki-CUkAQVWW_.jpg:small",
+    "Following": false,
+    "Visibility": true
+  },
+  {
+>>>>>>> e0a059cf49e994897b4bbc2da7d8dd8eeb9ab30d
     "English": "Lvl 200 Galleon",
     "Japanese": "Lv200 ガレヲン",
     "Image": "https://pbs.twimg.com/media/Ed52xQXUYAA1AAH.jpg:small",
