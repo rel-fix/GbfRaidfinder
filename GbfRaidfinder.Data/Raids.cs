@@ -331,6 +331,11 @@ namespace GbfRaidfinder.Data
                 Image = "https://pbs.twimg.com/media/Fhu7TElaAAAeWNU.jpg:small"
             },
             new RaidListItem {
+                English = "Lvl 275 Agastia",
+                Japanese = "Lv275 アガスティア",
+                Image = "https://pbs.twimg.com/media/FnNKP0HaYAECcP4.jpg:small"
+            },
+            new RaidListItem {
                 English = "Lvl 300 Super Ultimate Bahamut",
                 Japanese = "Lv300 スーパーアルティメットバハムート",
                 Image = "https://pbs.twimg.com/media/FFf-K_OUcAcrwyo.jpg:small"
@@ -403,6 +408,7 @@ namespace GbfRaidfinder.Data
             {"Lv275 ムゲン", "Lvl 275 Mugen"},
             {"Lv275 ディアスポラ", "Lvl 275 Diaspora"},
             {"Lv275 ジークフリート", "Lvl 275 Siegfried"},
+            {"Lv275 アガスティア", "Lvl 275 Agastia"},
             {"Lv300 スーパーアルティメットバハムート", "Lvl 300 Super Ultimate Bahamut"},
         };
 
@@ -472,6 +478,7 @@ namespace GbfRaidfinder.Data
             new RaidBoss("Lvl 275 Mugen", "EN", "https://pbs.twimg.com/media/Fa6BBePagAEWX3v.jpg:small"),
             new RaidBoss("Lvl 275 Diaspora", "EN", "https://pbs.twimg.com/media/FVQ7FXeaUAAB5c8.jpg:small"),
             new RaidBoss("Lvl 275 Siegfried", "EN", "https://pbs.twimg.com/media/Fhu7VxUagAI2zkr.jpg:small"),
+            new RaidBoss("Lvl 275 Agastia", "EN", "https://pbs.twimg.com/media/FnNKSp4acAg7r8C.jpg:small"),
             new RaidBoss("Lvl 300 Super Ultimate Bahamut", "EN", "https://pbs.twimg.com/media/FFf-NJXVQAo1oJa.jpg:small"),
         };
 
@@ -541,6 +548,7 @@ namespace GbfRaidfinder.Data
             new RaidBoss("Lv275 ムゲン", "JP", "https://pbs.twimg.com/media/Fa6A_VpagAYym8z.jpg:small"),
             new RaidBoss("Lv275 ディアスポラ", "JP", "https://pbs.twimg.com/media/FVQ7B9DaUAA6Vo6.jpg:small"),
             new RaidBoss("Lv275 ジークフリート", "JP", "https://pbs.twimg.com/media/Fhu7TElaAAAeWNU.jpg:small"),
+            new RaidBoss("Lv275 アガスティア", "JP", "https://pbs.twimg.com/media/FnNKP0HaYAECcP4.jpg:small"),
             new RaidBoss("Lv300 スーパーアルティメットバハムート", "JP", "https://pbs.twimg.com/media/FFf-K_OUcAcrwyo.jpg:small"),
         };
     }
